@@ -17,9 +17,13 @@ LTspice simulation of a 4-cell lithium-ion battery management system.
   
 ## Schematic
 
-![BMS Schematic](BMS%204%20CELL.pdf)
+Complete BMS schematic showing the cell models, protection logic, passive balancing, and charge/discharge control.
+
+![BMS Schematic](BMS_4Cell_LithiumIon.png)
 
 ## Simulation Results
+
+Charge and discharge simulation showing the battery pack completing a full charge/discharge cycle.
 
 ![Charge and Discharge](BMS_Charge_Discharge_Cycle.png)
 
