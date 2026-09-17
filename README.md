@@ -21,7 +21,7 @@ LTspice simulation of a 4-cell lithium-ion battery management system.
 
 ## Simulation Results
 
-![Charge and Discharge](BMS_Charge_Discharge_Cycle.pdf)
+![Charge and Discharge](BMS_Charge_Discharge_Cycle.png)
 
 ## Tools
 
