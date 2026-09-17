@@ -14,6 +14,10 @@ LTspice simulation of a 4-cell lithium-ion battery management system.
 ## Files
 
 * `BMS_4Cell_LithiumIon.asc` — LTspice schematic
+  
+## Schematic
+
+![BMS Schematic](BMS%204%20CELL.pdf)
 
 ## Tools
 
